@@ -1,0 +1,16 @@
+Hints
+------
+1- Task links:
+	-Lucid Chart ReadAll Seq Diagram -> https://lucid.app/lucidchart/08235dc1-9e15-4c7b-af81-d808a146c804/edit?viewport_loc=-908%2C-571%2C3838%2C1823%2C0_0&invitationId=inv_0adf8fc1-4c80-4800-82da-90a8fe2e1e71
+	-Lucid Chart WriteAll Seq Diagram -> https://lucid.app/lucidchart/0b845958-b543-4076-b8ed-270aad185eef/edit?viewport_loc=-2817%2C-306%2C6138%2C2593%2C0_0&invitationId=inv_21e2d4fe-8b31-4706-a0d2-ccde8e7cd903
+	-The Excel Sheet is already attached
+
+2- I may configure additional parameters in the Excel sheet like in "ActionDisablePDUs", and additional ActionList like
+   "ActionFullCom", and additional "BswMModeCondition" which is "ModeCondition_ComM".
+  
+3- The above additional parameters may be not needed or not mandatory in this configuration task.
+
+4- I hope you take into account the big gap between the real configuration tool and the Excel sheet, But I tried 
+   to imagine this as I could.
+   
+Thank you :)
